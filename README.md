@@ -2,9 +2,6 @@
 
 An interactive 3D website built for the **Techfest CA Program**. This project demonstrates the fusion of modern web development with 3D graphics to create a futuristic and engaging user experience.
 
-## 🔗 Live Demo
-[👉 Click here to view the Live Project](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)
-
 ---
 
 ## ✨ Features
@@ -29,4 +26,4 @@ An interactive 3D website built for the **Techfest CA Program**. This project de
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/techfest-3d.git
+   git clone https://github.com/Qubic-alt/techfest-3d.git
